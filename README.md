@@ -2,7 +2,6 @@
 - 👀 I’m interested in travelling and meeting new people..
 - 🌱 I’m currently learning  artifical intellingence...
 - 📫 How to reach me jainamtapiawala82@gmail.com...
--
 
 <!---
 jainamtapiawala/jainamtapiawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
